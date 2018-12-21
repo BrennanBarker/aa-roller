@@ -21,4 +21,4 @@ Simply drop the three .py files into a single directory on your computer.  The o
 
 5. Repeat from Step 1.
 
-#### I hope this makes your gaming more fun.  If it has, would you consider [donating me a cup of coffee](https://www.paypal.me/brennanbarker)?
+#### I hope this makes your gaming more fun.  If it has, would you consider <a href="https://www.paypal.me/brennanbarker" target="_blank">donating me a cup of coffee</a>?
