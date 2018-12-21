@@ -138,7 +138,3 @@ class AircraftCarrier(Unit):
         self.name = "Aircraft Carrier"
         self.attack_value = 0
         self.defend_value = 2
-
-units = {
-
-}
