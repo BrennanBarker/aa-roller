@@ -1,5 +1,5 @@
 # aa-roller
-A battle simulator for a popular boardgame.  This is meant to reduce the headache and mess of manually rolling many dice per round of combat.
+A battle simulator for a popular boardgame.  This is meant to be used in conjunction with the physical boardgame, to reduce the headache and mess of manually rolling many dice per round of combat.
 
 This is callibrated to 1940, Second Edition; you may need to adjust unit stats and battle proceedings if playing a different version.
 
