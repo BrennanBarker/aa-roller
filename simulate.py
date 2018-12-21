@@ -41,7 +41,7 @@ def account_for_supported_tacbombers(force):
             force[CombinedArmsTacticalBomber] += 1
 
 
-# Check for submarine sneak attacks
+# Check for submarine sneak attacks and if so remind to roll these manually, first.
 if is_sneak_attack(attacking_force, defending_force):
     print("Submarines can sneak attack! Resolve these manually and readjust battle formations.")
     quit()
