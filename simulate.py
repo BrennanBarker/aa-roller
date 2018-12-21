@@ -13,7 +13,7 @@ def roll_for_hits(force, side):
 
 
 def is_sneak_attack(force1, force2):
-    """If a submarine sneak attack is possible, raise an error to ask to resolve manually"""
+    """Check if a submarine sneak attack is possible."""
     return (force1[Submarine] > 0 and force2[Destroyer] == 0) or (force2[Submarine] > 0 and force1[Destroyer] == 0)
 
 
