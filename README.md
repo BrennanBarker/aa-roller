@@ -18,4 +18,4 @@ USAGE:
 
 5) Repeat from Step 1.
 
-I hope this makes your gaming more fun.  If it has, would you consider [donating me a cup of coffee](paypal.me/brennanbarker)?
+I hope this makes your gaming more fun.  If it has, would you consider [donating me a cup of coffee](https://www.paypal.me/brennanbarker)?
