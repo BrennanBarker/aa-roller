@@ -3,10 +3,10 @@ A battle simulator for a popular boardgame.  This is meant to reduce the headach
 
 This is callibrated to 1940, Second Edition; you may need to adjust unit stats and battle proceedings if playing a different version.
 
-"INSTALLATION":
+#### "Installation":
 Simply drop the three .py files into a single directory on your computer.  The only external python package dependancy is `random.py`, which is part of the Python Standard Library.  This was written for Python 3.5, YMMV with other versions.
 
-USAGE:
+#### Usage:
 
 1) Roll manually for any submarine surprise attacks.  Roll manually for AAA fires, provided this is the first round of an engagement (AAA's fire only once for an entire engagement, sneak attacking submarines get to fire every round).
 
@@ -21,4 +21,4 @@ USAGE:
 
 5) Repeat from Step 1.
 
-I hope this makes your gaming more fun.  If it has, would you consider [donating me a cup of coffee](https://www.paypal.me/brennanbarker)?
+#### I hope this makes your gaming more fun.  If it has, would you consider [donating me a cup of coffee](https://www.paypal.me/brennanbarker)?
