@@ -8,7 +8,7 @@ Simply drop the three .py files into a single directory on your computer.  The o
 
 #### Usage:
 
-1. Roll manually for any submarine surprise attacks.  Roll manually for AAA fires, provided this is the first round of an engagement (AAA's fire only once for an entire engagement, sneak attacking submarines get to fire every round).
+1. Roll manually for any submarine surprise attacks.  Roll manually for AAA fires, provided this is the first round of an engagement. AAA's fire only once for an entire engagement, sneak attacking submarines get to fire every round.
 
 2. Update `battle_formations.py` with the numbers of units of each type, on each side (after removing any units hit by sneaky subs or AAA).
     1. Only include submarines if the opposing side has a destroyer.  Sneak attacking subs should be rolled first, seperately, manually, becuase their kills are removed from the board prior to general combat roll and these submarines do not participate in general combat.
